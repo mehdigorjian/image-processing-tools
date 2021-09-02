@@ -1,4 +1,4 @@
-# image_processing
+# image_processing_application
 ## project_01: Create-Display-Read & Write color images
   1. Your first program should be able to read a file that can be considered a PPM image, i.e. it has to have an ASCII header that describe image properties like a PPM file. Your program should be able to read and use it to display an image.
   2. In the second program you will create your own image procedurally and display it in your program. You should also be able to write this procedurally created image into PPM file format. If everything works correctly, the first program should be able to read and display this file.
